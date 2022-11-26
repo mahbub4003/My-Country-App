@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My country APP v1.1.2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My country app [LINK HERE](https://animated-valkyrie-a1f46a.netlify.app).
 
 ## Available Scripts
 
